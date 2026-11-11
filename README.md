@@ -22,6 +22,6 @@ Projects
 - PhishGuard – AI-Based Phishing Website Detection System
 
 Connect With Me
-- LinkedIn: Add your LinkedIn profile URL here.
+- LinkedIn: www.linkedin.com/in/priya-r-a722b22b8
 
 ⭐ Thanks for visiting my profile!
